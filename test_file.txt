@@ -3,3 +3,4 @@
 リポジトリ作って、そこのファイルをアップロード
 そのあとはremoveの練習を実施
 git status
+git diff
